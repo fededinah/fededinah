@@ -7,7 +7,7 @@
 ## Personal Information
 
 - **Name:** Federico Di Napoli
-- **Email:** federico@codesysoftware.com
+- **Email:** fededinah@gmail.com
 
 ## About Me
 
